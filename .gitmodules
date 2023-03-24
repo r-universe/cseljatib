@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "datana"]
+	path = datana
+	url = https://github.com/cran/datana
+	shallow = true
+	registered = true
